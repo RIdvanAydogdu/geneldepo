@@ -7,3 +7,4 @@
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **ridvanaydogdu0505@gmail.com**
+
